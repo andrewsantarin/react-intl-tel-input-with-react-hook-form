@@ -2,9 +2,10 @@
 
 This example shows how to use [`react-hook-form`](https://react-hook-form.com/) with [`react-intl-tel-input`](https://patw0929.github.io/react-intl-tel-input).
 
-Some assumptions in these examples:
+## Assumptions
 
-1. **You use TypeScript.** JavaScript authors can still benefit from this examle. Just assume no types are required on your end.
+1. **You use TypeScript.**
+   - JavaScript authors can still benefit from this example. Just assume no types are required on your end.
 
 2. **This project uses a _fork_ of `react-intl-tel-input`**.
    - The fork is located here: https://github.com/andrewsantarin/react-intl-tel-input/tree/feature/typescriptSupport and is published as [`@andrewsantarin/react-intl-tel-input`](https://www.npmjs.com/package/@andrewsantarin/react-intl-tel-input).
@@ -15,3 +16,7 @@ Some assumptions in these examples:
       npm i -S react-intl-tel-input@npm:@andrewsantarin/react-intl-tel-input@latest # NPM
       yarn add react-intl-tel-input@npm:@andrewsantarin/react-intl-tel-input@latest # Yarn
       ```
+
+## Usage
+
+Follow [the `create-react-app` README](./docs/create-react-app/README.md) for the procedures.
